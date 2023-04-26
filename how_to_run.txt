@@ -1,0 +1,1 @@
+python people_counter.py --input videos\video1.mp4
